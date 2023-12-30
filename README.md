@@ -1,2 +1,2 @@
 # PHP-ORM
-Customer php OEM for develop web application
+Custom php OEM for develop web application
